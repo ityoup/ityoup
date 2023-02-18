@@ -12,7 +12,7 @@ I like Programming and I upload ALL my projects.
 </p>
 
 You can contact me:
-<br>
+<br/>
 <a href="mailto:jclizarraga02@icloud.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
