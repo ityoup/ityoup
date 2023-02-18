@@ -13,7 +13,7 @@ I like Programming and I upload ALL my projects.
 
 You can contact me:
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white jclizarraga02@icloud.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> jclizarraga02@icloud.com
 
 
 
