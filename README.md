@@ -10,5 +10,4 @@ I like Programming and I upload ALL my projects.
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,express,html,mysql,ps,css,bash,linux,docker)](https://skillicons.dev)
 
-the end
 
