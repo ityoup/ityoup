@@ -12,8 +12,9 @@ I like Programming and I upload ALL my projects.
 </p>
 
 You can contact me:
+<a href="mailto:elcorreoquequieres@correo.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> jclizarraga02@icloud.com</a>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> jclizarraga02@icloud.com
 
 
 
