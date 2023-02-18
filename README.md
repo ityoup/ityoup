@@ -8,8 +8,12 @@ I like Programming and I upload ALL my projects.
 
 ### My Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
+<img src="[https://skillicons.dev/](https://skillicons.dev/)icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
 </p>
+
+You can contact me:
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white jclizarraga02@icloud.com
 
 
 
