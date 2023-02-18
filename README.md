@@ -12,6 +12,6 @@ I like Programming and I upload ALL my projects.
     <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,js,nodejs,express,html,mysql,ps,css,bash,linux,docker)" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,express,html,mysql,ps,css,bash,linux,docker)](https://skillicons.dev)
+
 
 
