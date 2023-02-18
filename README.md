@@ -6,7 +6,7 @@ I like Programming and I upload ALL my projects.
 * Im Mexican :yum: we have the best food in the world
 * My hobbies are watch series and study any topic (mostly related to programming)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 the end
 
