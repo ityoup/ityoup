@@ -11,9 +11,10 @@ I like Programming and I upload ALL my projects.
 <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
 </p>
 
-You can contact me:  
-<a href="mailto:jclizarraga02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> jclizarraga02@icloud.com</a>
+You can contact me:
+<br>
+<a href="mailto:jclizarraga02@icloud.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 
 
