@@ -5,7 +5,7 @@ I like Programming and I upload ALL my projects.
 
 * Name is Juan Carlos
 * Age: 22
-* Hobbies: Programmin, watch series, Study & Read
+* Hobbies: Programming, watch series, Study & Read
 * 🇲🇽
 
 ### My Skills
