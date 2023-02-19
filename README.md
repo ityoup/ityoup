@@ -1,9 +1,10 @@
 ## Welcome to my profile
 
-My nickname is Ityoup and you can find me like Ityoup haha. (Juan Carlos IS MY REAL name...)
-I like Programming and I upload ALL my projects.
+Hello, I'm Ityoup
 
-* Name is Juan Carlos
+Currently working as a software developer
+
+* Name: Juan Carlos
 * Age: 22
 * Hobbies: Programming, watch series, Study & Read
 * 🇲🇽
