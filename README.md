@@ -2,7 +2,7 @@
 
 Hello, I'm Ityoup
 
-Currently working as a software developer
+Currently working as software developer
 
 * Name: Juan Carlos
 * Age: 22
