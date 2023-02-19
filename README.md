@@ -9,8 +9,16 @@ I like Programming and I upload ALL my projects.
 * 🇲🇽
 
 ### My Skills
+
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mysql,ps,bash,linux,docker"/>
 </p>
 
 ### You can contact me:
