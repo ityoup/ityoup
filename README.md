@@ -45,7 +45,7 @@ I like Programming and I upload ALL my projects.
 <a href="https://twitter.com/o0nart0o">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={ityoup}"/>
 
 
 
