@@ -46,6 +46,6 @@ Currently working as software developer
 <a href="https://twitter.com/o0nart0o">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-
+<a href="https://app.daily.dev/nartikn"><img src="https://api.daily.dev/devcards/3d5111a0b0a14fd7b81a4abcbd2451e0.png?r=ohi" width="400" alt="J.C Lizarraga's Dev Card"/></a>
 
 
