@@ -5,7 +5,6 @@ Hello, I'm Ityoup
 Currently working as software developer
 
 * Name: Juan Carlos
-* Age: 22
 * Hobbies: Programming, watch series, Study & Read
 * 🇲🇽
 
